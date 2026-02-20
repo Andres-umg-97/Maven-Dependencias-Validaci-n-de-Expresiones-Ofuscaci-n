@@ -1,0 +1,30 @@
+stackHandler.handler.Main -> stackHandler.handler.Main:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
+stackHandler.handler.MyStack -> stackHandler.handler.a:
+    stackHandler.handler.Node top -> a
+    int count -> b
+    void <init>() -> <init>
+    void push(char) -> a
+    char pop() -> a
+    char peek() -> b
+    boolean isEmpty() -> c
+    int getCount() -> d
+    int getSize() -> e
+    int length() -> f
+    stackHandler.handler.Node getNodeInit() -> g
+stackHandler.handler.Node -> stackHandler.handler.b:
+    char data -> a
+    stackHandler.handler.Node next -> b
+    void <init>(char) -> <init>
+    char getData() -> a
+    stackHandler.handler.Node getNext() -> b
+    void setNext(stackHandler.handler.Node) -> a
+stackHandler.handler.SymbolValidator -> stackHandler.handler.c:
+    void <init>() -> <init>
+    boolean isValid(java.lang.String) -> a
+    boolean isMatching(char,char) -> a
+umg.edu.gt.data_structure.stack.manual.SymbolValidator -> umg.edu.gt.data_structure.stack.manual.a:
+    void <init>() -> <init>
+    boolean isValid(java.lang.String) -> a
+    boolean isMatching(char,char) -> a

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="stackHandler/src/main/java"/>
+	<classpathentry kind="src" path="umg.edu.gt.data-structure.stack/src/main/java"/>
+	<classpathentry kind="lib" path="__MACOSX/umg.edu.gt.data-structure.stack/target/._umg.edu.gt.data-structure.stack-0.0.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="umg.edu.gt.data-structure.stack/target/umg.edu.gt.data-structure.stack-0.0.3-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="stackHandler/target/classes"/>
+</classpath>
